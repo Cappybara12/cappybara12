@@ -39,7 +39,7 @@ the extra mile to achieve outstanding results.
 
 <h2>Languages and Tools</h2> 
 <p align="left">
-<img width="280px"  src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,nodejs,expresstailwind,aws,git,github&perline=9"  />
+<img width="280px"  src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,nodejs,express,tailwind,aws,git,github&perline=9"  />
 </p>
 <br />
 
@@ -73,8 +73,8 @@ the extra mile to achieve outstanding results.
 
 <h2>My Latest Project</h2> 
 <br />
-<p><a href="https://github.com/cappybara12/MSIT-resume-manager#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cappybara12&repo=MSIT-resume-manager&theme=nightowl&show_owner=true#gh-dark-mode-only"/></a></p>
-<p><a href="https://github.com/cappybara12/MSIT-resume-manager#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cappybara12&repo=MSIT-resume-manager&theme=vue&show_owner=true#gh-light-mode-only"/></a></p>
+<p><a href="https://github.com/cappybara12/https://github.com/Cappybara12/Resume_ManagerMSIT#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cappybara12&repo=https://github.com/Cappybara12/Resume_ManagerMSIT&theme=nightowl&show_owner=true#gh-dark-mode-only"/></a></p>
+<p><a href="https://github.com/cappybara12/https://github.com/Cappybara12/Resume_ManagerMSIT#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cappybara12&repo=https://github.com/Cappybara12/Resume_ManagerMSIT&theme=vue&show_owner=true#gh-light-mode-only"/></a></p>
 <br />
 
 
