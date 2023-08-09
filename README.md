@@ -33,7 +33,7 @@ the extra mile to achieve outstanding results.
 
 <h2>Languages and Tools</h2> 
 <p align="left">
-<img width="280px"  src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,nodejs,expresstailwind,aws,git,github&perline=9"  />
+<img width="280px"  src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,nodejs,express,tailwind,vscode,aws,git,github&perline=9"  />
 </p>
 <br />
 
