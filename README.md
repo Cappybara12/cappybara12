@@ -56,9 +56,6 @@ the extra mile to achieve outstanding results.
 <br/>
 <br />
 
-<p><a href="https://github.com/cappybara12#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=cappybara12&theme=nightowl#gh-dark-mode-only" alt="cappybara12" /></a>
-<a href="https://github.com/cappybara12#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=cappybara12&theme=vue#gh-light-mode-only" alt="cappybara12" /></a></p>
-<br/>
 
 ---
 
