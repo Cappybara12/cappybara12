@@ -12,17 +12,6 @@ with emerging technologies. Demonstrated success in hackathons and
 delivering high-quality work. Committed to excellence and going
 the extra mile to achieve outstanding results.
 </p>
-<p align="left"> 
-  <a href="https://github.com/cappybara12?tab=repositories&sort=stargazers#gh-light-mode-only">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/cappybara12?color=3ea97d&style=for-the-badge&labelColor=40b682&logo=star#gh-light-mode-only"/></a>
-  
-  
-  <a href="https://github.com/cappybara12?tab=followers#gh-light-mode-only">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/cappybara12?color=2c4954&labelColor=2c3e50&style=for-the-badge&logo=person-add&label=Follow&logoColor=white#gh-light-mode-only"/></a>
-    
-  <a href="https://github.com/cappybara12?tab=followers#gh-dark-mode-only">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/cappybara12?color=dacc84&labelColor=f9e692&style=for-the-badge&logo=person-add&label=Follow&logoColor=white#gh-dark-mode-only"/></a>
-</p>
 
 ---
 <br />
