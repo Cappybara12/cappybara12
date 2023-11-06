@@ -1,31 +1,84 @@
-<h1 align="center">Hi 👋, I'm Akshay</h1>
-<h3 align="center">Aka Dev_voyager because I love voyaging towards new tech</h3>
+<h1>✨ Akshay Kumar Sharma</h1>
+<br /> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cappybara12&label=Profile%20views&color=0e75b6&style=flat" alt="cappybara12" /> </p>
+                    
+`**Digital Craftsman (Developer / Programmer)**`
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cappybara12" alt="cappybara12" /></a> </p>
+                    
 
-- 🔭 I’m currently working on [Effimed Hub](https://github.com/Cappybara12/Effimed-Hub)
-
-- 🌱 I’m currently learning **Aws ,angular,springboot**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Cappybara12](https://github.com/Cappybara12)
-
-- 💬 Ask me about **Anything related to web dev..would love to help or learn from you :)**
-
-- 📫 How to reach me **akshayne912@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1IhnnwTjmyUhi_yYDO9q_7ItB8HX9-Km2/view](https://drive.google.com/file/d/1IhnnwTjmyUhi_yYDO9q_7ItB8HX9-Km2/view)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/akshay-kumar-sharma-37aa55256/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akshay-kumar-sharma-37aa55256/" height="30" width="40" /></a>
+<p align="left">Passionate learner and tech enthusiast with expertise in web
+development. Dedicated to continuous learning and staying updated
+with emerging technologies. Demonstrated success in hackathons and
+delivering high-quality work. Committed to excellence and going
+the extra mile to achieve outstanding results.
+</p>
+<p align="left"> 
+  <a href="https://github.com/cappybara12?tab=repositories&sort=stargazers#gh-light-mode-only">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/cappybara12?color=3ea97d&style=for-the-badge&labelColor=40b682&logo=star#gh-light-mode-only"/></a>
+  
+  <a href="https://github.com/cappybara12?tab=repositories&sort=stargazers#gh-dark-mode-only">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/cappybara12?color=655489&style=for-the-badge&labelColor=c691e9&logo=star#gh-dark-mode-only"/></a>
+  
+  <a href="https://github.com/cappybara12?tab=followers#gh-light-mode-only">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/cappybara12?color=2c4954&labelColor=2c3e50&style=for-the-badge&logo=person-add&label=Follow&logoColor=white#gh-light-mode-only"/></a>
+    
+  <a href="https://github.com/cappybara12?tab=followers#gh-dark-mode-only">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/cappybara12?color=dacc84&labelColor=f9e692&style=for-the-badge&logo=person-add&label=Follow&logoColor=white#gh-dark-mode-only"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
+<br />
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cappybara12&show_icons=true&locale=en&layout=compact" alt="cappybara12" /></p>
+                    
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cappybara12&" alt="cappybara12" /></p>
+<h2>Languages and Tools</h2> 
+<p align="left">
+<img width="280px"  src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,nodejs,express,react,nextjs,tailwind,vscode,aws,git,github&perline=7"  />
+</p>
+<br />
 
+                    
+
+<p><a href="https://github.com/cappybara12#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cappybara12&langs_count=6&show_icon=true&layout=compact&theme=nightowl#gh-dark-mode-only" alt="cappybara12" /></a>
+  <a href="https://github.com/cappybara12#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cappybara12&langs_count=6&show_icon=true&layout=compact&theme=vue#gh-light-mode-only" alt="cappybara12" /></a>
+</p>
+
+<br />
+
+<p>&nbsp;<a href="https://github.com/cappybara12#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=cappybara12&count_private=true&show_icons=true&theme=nightowl#gh-dark-mode-only" alt="cappybara12" /></a>
+<a href="https://github.com/cappybara12#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=cappybara12&count_private=true&show_icons=true&theme=vue#gh-light-mode-only" alt="cappybara12" /></a>
+</p> 
+<br>
+<br />
+
+<p><a href="https://github.com/cappybara12#gh-dark-mode-only" target="_blank"><img align="center" src="https://streak-stats.demolab.com?user=cappybara12&theme=nightowl#gh-dark-mode-only" alt="cappybara12"/></a>
+<a href="https://github.com/cappybara12#gh-light-mode-only" target="_blank"><img align="center" src="https://streak-stats.demolab.com?user=cappybara12&theme=vue#gh-light-mode-only" alt="cappybara12"/></a></p>
+<br/>
+<br />
+
+
+---
+
+
+                    
+
+<h2>My Latest Project</h2> 
+<br />
+<p><a href="https://github.com/cappybara12/Resume_ManagerMSIT#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cappybara12&repo=Resume_ManagerMSIT&theme=nightowl&show_owner=true#gh-dark-mode-only"/></a></p>
+<p><a href="https://github.com/cappybara12/Resume_ManagerMSIT#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cappybara12&repo=Resume_ManagerMSIT&theme=vue&show_owner=true#gh-light-mode-only"/></a></p>
+<br />
+
+
+                    
+
+<h2>Connect With Me</h2> 
+<p align="left">
+<a href="https://twitter.com/akshay___95" target="_blank"><img align="left" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akshay___95" /></a>
+<a href="https://instagram.com/akshay._95" target="_blank"><img align="left" width="30px" style="padding-right:10px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akshay._95" /></a>
+<a href="kedin.com/in/akshay-kumar-sharma-37aa55256/" target="_blank"><img align="left" alt="linkedin" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
+</p>
+
+                
+
+
+            
