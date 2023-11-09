@@ -17,8 +17,7 @@ the extra mile to achieve outstanding results.
 <br />
 
                     
-<h2>My Portfolio Webiste
-<a href="https://dev-voyager.netlify.app/#gh-dark-mode-only" target="_blank"</a></h2> 
+<h2>My Portfolio Webiste<a href="https://dev-voyager.netlify.app/#gh-dark-mode-only" target="_blank"</a></h2> 
 
 
 <h2>Languages and Tools</h2> 
@@ -63,7 +62,7 @@ the extra mile to achieve outstanding results.
 <p align="left">
 <a href="https://twitter.com/akshay___95" target="_blank"><img align="left" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akshay___95" /></a>
 <a href="https://instagram.com/akshay._95" target="_blank"><img align="left" width="30px" style="padding-right:10px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akshay._95" /></a>
-<a href="kedin.com/in/akshay-kumar-sharma-37aa55256/" target="_blank"><img align="left" alt="linkedin" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
+<a href="linkedin.com/in/akshay-kumar-sharma-37aa55256/" target="_blank"><img align="left" alt="linkedin" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
 </p>
 
                 
