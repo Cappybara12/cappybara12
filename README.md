@@ -19,8 +19,7 @@ the extra mile to achieve outstanding results.
                     
 <h2>My Portfolio Website</h2> 
 <br />
-<p><a href="https://dev-voyager.netlify.app/" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cappybara12&repo=Resume_ManagerMSIT&theme=nightowl&show_owner=true#gh-dark-mode-only"/></a></p>
-<p><a href="https://dev-voyager.netlify.app/" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cappybara12&repo=Resume_ManagerMSIT&theme=vue&show_owner=true#gh-light-mode-only"/></a></p>
+<p><a href="https://dev-voyager.netlify.app/" target="_blank"><img align="center" /></a></p>
 <br />
 
 
