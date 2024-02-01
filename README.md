@@ -24,7 +24,7 @@ the extra mile to achieve outstanding results.
 
 <h2>Languages and Tools</h2> 
 <p align="left">
-<img width="280px"  src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,nodejs,express,react,nextjs,tailwind,vscode,aws,git,github,docker,kubernetes,swarm,azure,terraform&perline=7"  />
+<img width="280px"  src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,nodejs,express,react,nextjs,tailwind,vscode,aws,git,github,docker,kubernetes,azure,terraform&perline=7"  />
 </p>
 <br />
 
