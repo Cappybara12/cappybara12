@@ -23,8 +23,6 @@ the extra mile to achieve outstanding results.
 <p><a href="https://github.com/Cappybara12/GYMSO" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cappybara12&repo=GYMSO&theme=nightowl&show_owner=true#gh-dark-mode-only"/></a></p>
 <p><a href="https://github.com/Cappybara12/CLOTHINGSTORE" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cappybara12&repo=CLOTHINGSTORE&theme=nightowl&show_owner=true#gh-dark-mode-only"/></a></p>
 
-<p><a href="https://github.com/cappybara12/Resume_ManagerMSIT#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cappybara12&repo=Resume_ManagerMSIT&theme=nightowl&show_owner=true#gh-dark-mode-only"/></a></p>
-
 <p><a href="https://dev-voyager.netlify.app/" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cappybara12&repo=RESUME-SITE&theme=nightowl&show_owner=true#gh-dark-mode-only"/></a></p>
 
 
@@ -61,8 +59,9 @@ the extra mile to achieve outstanding results.
 <h2>My Latest Project</h2> 
 <br />
                
+<p><a href="https://github.com/cappybara12/Resume_ManagerMSIT#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cappybara12&repo=Resume_ManagerMSIT&theme=nightowl&show_owner=true#gh-dark-mode-only"/></a></p>
 
-<p><a href="https://github.com/Cappybara12/code-cubicle#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cappybara12&repo=code-cubicle&theme=vue&show_owner=true#gh-light-mode-only"/></a></p>
+<p><a href="https://github.com/Cappybara12/code-cubicle#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cappybara12&repo=code-cubicle&theme=vue&show_owner=true#gh-light-mode-only"/></a></p>
 <br />
 
 
