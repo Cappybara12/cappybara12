@@ -20,7 +20,10 @@ the extra mile to achieve outstanding results.
 <h2>Some Projects</h2> 
 <br />
 <p><a href="https://github.com/Cappybara12/web-app-gitops" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cappybara12&repo=web-app-gitops&theme=nightowl&show_owner=true#gh-dark-mode-only"/></a></p>
+<p><a href="https://github.com/Cappybara12/golang" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cappybara12&repo=golang&theme=nightowl&show_owner=true#gh-dark-mode-only"/></a></p>
+
 <p><a href="https://github.com/Cappybara12/GYMSO" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cappybara12&repo=GYMSO&theme=nightowl&show_owner=true#gh-dark-mode-only"/></a></p>
+
 <p><a href="https://github.com/Cappybara12/CLOTHINGSTORE" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cappybara12&repo=CLOTHINGSTORE&theme=nightowl&show_owner=true#gh-dark-mode-only"/></a></p>
 
 <p><a href="https://dev-voyager.netlify.app/" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cappybara12&repo=RESUME-SITE&theme=nightowl&show_owner=true#gh-dark-mode-only"/></a></p>
