@@ -3,10 +3,7 @@
 
                     
 `**Digital Craftsman (Developer / Programmer)**`
-   <a href="https://www.producthunt.com/products/nonilion/reviews?utm_source=badge-product_review&utm_medium=badge&utm_source=badge-nonilion" target="_blank">
-     <img src="https://api.producthunt.com/widgets/embed-image/v1/product_review.svg?product_id=1021340&theme=light" alt="Nonilion - The Ultimate Virtual Meeting Space for Remote Teams | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" />
-   </a>
-                    
+<a href="https://www.geamc.com/certificates/employee/CP-DXO2BM" target="_blank" rel="noopener noreferrer"><img src="https://www.geamc.com/geamc-badge.svg" alt="GEAMC Verified Professional" style="width: 250px; height: 54px;" width="250" height="54" /></a>                    
 
 <p align="left">Passionate learner and tech enthusiast with expertise in web
 development. Dedicated to continuous learning and staying updated
