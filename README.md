@@ -3,6 +3,7 @@
 
                     
 `**Digital Craftsman (Developer / Programmer)**`
+<a href="https://geamc.com/certificates/employee/CP-SJVL3E" target="_blank" rel="noopener noreferrer"><img src="https://geamc.com/api/badge/employee/CP-SJVL3E" alt="GEAMC Verified Professional - akshay sharma" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 <a href="https://www.geamc.com/certificates/employee/CP-J2ROML" target="_blank" rel="noopener noreferrer"><img src="https://www.geamc.com/geamc-badge.svg" alt="GEAMC Verified Professional" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 <a href="http://localhost:3000/certificates/employee/CP-SJVL3E" target="_blank" rel="noopener noreferrer"><img src="http://localhost:3000/api/certificate-badge" alt="GEAMC Verified Professional Excellence" style="width: 300px; height: 160px;" width="300" height="160" /></a>
 <p align="left">Passionate learner and tech enthusiast with expertise in web
