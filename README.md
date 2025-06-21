@@ -4,7 +4,7 @@
                     
 `**Digital Craftsman (Developer / Programmer)**`
 <a href="https://www.geamc.com/certificates/employee/CP-J2ROML" target="_blank" rel="noopener noreferrer"><img src="https://www.geamc.com/geamc-badge.svg" alt="GEAMC Verified Professional" style="width: 250px; height: 54px;" width="250" height="54" /></a>
-<a href="https://www.geamc.com/certificates/employee/CP-J2ROML" target="_blank" rel="noopener noreferrer"><img src="https://www.geamc.com/api/certificate-badge/CP-J2ROML" alt="GEAMC Certificate of Excellence - akshay" style="width: 300px; height: 200px;" width="300" height="200" /></a>
+<a href="https://www.geamc.com/certificates/employee/CP-J2ROML" target="_blank" rel="noopener noreferrer"><img src="https://www.geamc.com/api/certificate-badge/CP-SJVL3E" alt="GEAMC Certificate of Excellence - akshay" style="width: 300px; height: 200px;" width="300" height="200" /></a>
 <p align="left">Passionate learner and tech enthusiast with expertise in web
 development. Dedicated to continuous learning and staying updated
 with emerging technologies. Demonstrated success in hackathons and
