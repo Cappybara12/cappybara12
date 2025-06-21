@@ -4,7 +4,7 @@
                     
 `**Digital Craftsman (Developer / Programmer)**`
 <a href="https://www.geamc.com/certificates/employee/CP-DXO2BM" target="_blank" rel="noopener noreferrer"><img src="https://www.geamc.com/geamc-badge.svg" alt="GEAMC Verified Professional" style="width: 250px; height: 54px;" width="250" height="54" /></a>                    
-<a href="http://localhost:3000/certificates/employee/CP-S6GU8S" target="_blank" rel="noopener noreferrer"><img src="https://www.geamc.com/api/certificate-badge/CP-S6GU8S" alt="GEAMC Certificate of Excellence - Akshay Kumar Sharma" style="width: 300px; height: 200px;" width="300" height="200" /></a>
+<a href="http://localhost:3000/certificates/employee/CP-SJVL3E" target="_blank" rel="noopener noreferrer"><img src="https://www.geamc.com/api/certificate-badge/CP-SJVL3E" alt="GEAMC Certificate of Excellence - akshay sharma" style="width: 300px; height: 200px;" width="300" height="200" /></a>
 <p align="left">Passionate learner and tech enthusiast with expertise in web
 development. Dedicated to continuous learning and staying updated
 with emerging technologies. Demonstrated success in hackathons and
