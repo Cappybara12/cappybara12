@@ -4,31 +4,13 @@
                     
 `**Digital Craftsman (Developer / Programmer)**`
 <a href="https://www.geamc.com/certificates/employee/CP-J2ROML" target="_blank" rel="noopener noreferrer"><img src="https://www.geamc.com/geamc-badge.svg" alt="GEAMC Verified Professional" style="width: 250px; height: 54px;" width="250" height="54" /></a>
-<p align="left">Passionate learner and tech enthusiast with expertise in web
-development. Dedicated to continuous learning and staying updated
-with emerging technologies. Demonstrated success in hackathons and
-delivering high-quality work. Committed to excellence and going
-the extra mile to achieve outstanding results.
+<p align="left"> i love to build, talk , pitch or even market whatever I create. 
 </p>
 
 ---
 <br />
 
-                    
-<h2>Some Projects</h2> 
-<br />
-<p><a href="https://github.com/Cappybara12/web-app-gitops" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cappybara12&repo=web-app-gitops&theme=nightowl&show_owner=true#gh-dark-mode-only"/></a></p>
-<p><a href="https://github.com/Cappybara12/golang" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cappybara12&repo=golang&theme=nightowl&show_owner=true#gh-dark-mode-only"/></a></p>
-
-<p><a href="https://github.com/Cappybara12/GYMSO" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cappybara12&repo=GYMSO&theme=nightowl&show_owner=true#gh-dark-mode-only"/></a></p>
-
-<p><a href="https://github.com/Cappybara12/CLOTHINGSTORE" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cappybara12&repo=CLOTHINGSTORE&theme=nightowl&show_owner=true#gh-dark-mode-only"/></a></p>
-
-<p><a href="https://dev-voyager.netlify.app/" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cappybara12&repo=RESUME-SITE&theme=nightowl&show_owner=true#gh-dark-mode-only"/></a></p>
-
-
-<br />
-
+ 
 <h2>Languages and Tools</h2> 
 <p align="left">
 <img width="280px"  src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,nodejs,express,react,nextjs,tailwind,vscode,aws,git,github,docker,kubernetes,azure,terraform&perline=7"  />
