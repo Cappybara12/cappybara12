@@ -13,7 +13,6 @@
 <img width="280px"  src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,nodejs,express,react,nextjs,tailwind,vscode,aws,git,github,docker,kubernetes,azure,terraform&perline=7"  />
 </p>
 <br />
-stats.vercel.app/api/pin/?username=cappybara12&repo=Resume_ManagerMSIT&theme=nightowl&show_owner=true#gh-dark-mode-only"/></a></p>
 
 <p><a href="https://github.com/Cappybara12/code-cubicle#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cappybara12&repo=code-cubicle&theme=vue&show_owner=true#gh-light-mode-only"/></a></p>
 <br />
