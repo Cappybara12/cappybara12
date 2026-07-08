@@ -1,5 +1,4 @@
 <h1>Akshay Kumar Sharma</h1>                  
-<a href="https://www.geamc.com/certificates/employee/CP-J2ROML" target="_blank" rel="noopener noreferrer"><img src="https://www.geamc.com/geamc-badge.svg" alt="GEAMC Verified Professional" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 <p align="left"> i love to build, talk , pitch or even market whatever I create. 
 </p>
 <h2>Languages and Tools</h2> 
