@@ -15,7 +15,7 @@ My portfolio and writing: <a href="https://dev-voyager.space">dev-voyager.space<
 <h2>Connect With Me</h2> 
 <p align="left">
 <a href="https://twitter.com/akshay___95" target="_blank"><img align="left" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cappybaradeploy" /></a>
-<a href="https://instagram.com/akshay.atit" target="_blank"><img align="left" width="30px" style="padding-right:10px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akshay._95" /></a>
+<a href="https://instagram.com/akshayat.it" target="_blank"><img align="left" width="30px" style="padding-right:10px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akshayat.it" /></a>
 <a href="https://www.linkedin.com/in/akshay-kumar-sharma-37aa55256/" target="_blank"><img align="left" alt="linkedin" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
 </p>
 
